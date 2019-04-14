@@ -1,3 +1,10 @@
-this is git_hub test 
+#this is git_hub test 
 
-what is your name? seok gyu 
+1. __what is your name?__
+	_seok gyu_
+
+2. __what is your age?__
+	_26_ 
+
+Format: ![Alt Text](https://images.pexels.com/photos/658687/pexels-photo-658687.jpeg?cs=srgb&dl=beautiful-bloom-blooming-658687.jpg&fm=jpg)
+ 
